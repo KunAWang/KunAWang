@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @KunAWang from China, Shanxi.
 - 👀 I’m interested in all things that I don't know.
-- 🌱 I’m currently learning SW architecture.
-- 💞️ I’m looking to collaborate on automated driving.
+- 🌱 I’m currently a SW architect for AD driving
+- 💞️ I’m looking to collaborating on automated driving.
 - 📫 How to reach me WeChat: **18600851301**, 18600851301@163.com
 
 <!---
